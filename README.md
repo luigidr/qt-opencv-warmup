@@ -1,4 +1,4 @@
-##Getting started with OpenCV and Qt
+##Getting started with OpenCV and Qt##
 
 *Computer Vision course - [Politecnico di Torino](http://www.polito.it) - academic year 2012-2013*
 
